@@ -166,8 +166,8 @@ nav a:hover {
   padding: 15px;
 }
 
-.main-text img: hover {
-  transform: scale(1.2);
+.main-text img:hover {
+  transform: scale(1.05);
 }
 
 footer {
