@@ -166,6 +166,10 @@ nav a:hover {
   padding: 15px;
 }
 
+.main-text img: hover {
+  transform: scale(1.2);
+}
+
 footer {
   display: flex;
   background:#b8bbbd;
