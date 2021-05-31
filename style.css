@@ -58,7 +58,7 @@ nav ul{
   display: flex;
   float: right;
   list-style: none;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 
@@ -70,7 +70,7 @@ nav a {
   justify-content: center;
   text-decoration: none;
   padding-left:8px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 nav a:hover {
