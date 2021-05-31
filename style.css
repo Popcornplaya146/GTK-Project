@@ -169,6 +169,10 @@ nav a:hover {
 .main-text img:hover {
   transform: scale(1.03);
 }
+.fas fa-phone {
+  font-size: 5px;
+  color: black;
+}
 
 footer {
   display: flex;
