@@ -256,5 +256,9 @@ footer {
   text-align: center;
   margin-bottom: 20px;
   font-weight: bold;
+  
+}
+
+.email p {
   padding-left: 10px;
 }
