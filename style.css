@@ -263,5 +263,6 @@ footer {
 }
 
 .email p {
+  display: inline-block;
   padding-left: 30px;
 }
